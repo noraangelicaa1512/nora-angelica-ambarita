@@ -11,7 +11,7 @@ html lang="en">
       <div class="sidebar">
         <nav>
           <ul>
-           perpustakan nora
+           
           </ul>
         </nav>
       </div>
@@ -19,7 +19,7 @@ html lang="en">
         <section class="hero">
           <img src="online.png" alt="" />
           <div class="hero-content">
-            <h1>Profesi</h1>
+            <h1>Perpustakaan nora</h1>
             <br />
             <h2>Junior Content Writer at Dicoding</h2>
             <br /><br />
