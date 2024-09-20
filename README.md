@@ -1,5 +1,5 @@
 # nora-angelica-ambarita perpustakaan
-html lang="en">
+<perpustakaan>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
